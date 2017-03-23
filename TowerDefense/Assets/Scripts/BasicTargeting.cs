@@ -15,7 +15,7 @@ public class BasicTargeting : MonoBehaviour {
 
 		if (distance <= range)
 		{
-			Vector3 direction = transform.position - target.position;
+			Vector3 direction = target.position - transform.position;
 			Quaternion desiredRotation = Quaternion.LookRotation (direction, Vector3.up);
 			transform.rotation = Quaternion.RotateTowards (transform.rotation, desiredRotation, rotationSpeed * Time.deltaTime);
 			shouldFire = true;
