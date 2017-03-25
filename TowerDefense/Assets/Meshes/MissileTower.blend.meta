@@ -1,67 +1,15 @@
 fileFormatVersion: 2
-guid: bfb0e906bb896a04688376ca92d17458
-timeCreated: 1490290352
+guid: b193bd01b9f3ca8419e2dd5b7e9a8a84
+timeCreated: 1490407020
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Cube
-    100002: Sphere
-    100004: Suzanne
-    100006: //RootNode
-    100008: Cylinder
-    100010: Line074
-    100012: Object008
-    100014: Object009
-    100016: Object010
-    100018: Object011
-    100020: Object012
-    100022: Torus
-    400000: Cube
-    400002: Sphere
-    400004: Suzanne
-    400006: //RootNode
-    400008: Cylinder
-    400010: Line074
-    400012: Object008
-    400014: Object009
-    400016: Object010
-    400018: Object011
-    400020: Object012
-    400022: Torus
-    2300000: Cube
-    2300002: Sphere
-    2300004: Suzanne
-    2300006: Cylinder
-    2300008: Line074
-    2300010: Object008
-    2300012: Object009
-    2300014: Object010
-    2300016: Object011
-    2300018: Object012
-    2300020: Torus
-    3300000: Cube
-    3300002: Sphere
-    3300004: Suzanne
-    3300006: Cylinder
-    3300008: Line074
-    3300010: Object008
-    3300012: Object009
-    3300014: Object010
-    3300016: Object011
-    3300018: Object012
-    3300020: Torus
-    4300000: Sphere
-    4300002: Suzanne
-    4300004: Cube
-    4300006: Object010
-    4300008: Object009
-    4300010: Line074
-    4300012: Object012
-    4300014: Object011
-    4300016: Object008
-    4300018: Torus
-    4300020: Cylinder
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cylinder
     7400000: Default Take
     9500000: //RootNode
   materials:

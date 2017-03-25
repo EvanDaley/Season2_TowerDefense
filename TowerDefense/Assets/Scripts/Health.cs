@@ -16,6 +16,7 @@ public class Health : MonoBehaviour {
 
 	public void Die()
 	{
-		Destroy (gameObject);
+		//Destroy (gameObject);
+		gameObject.SetActive(false);
 	}
 }
